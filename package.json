@@ -35,5 +35,8 @@
     "resend": "^4.0.0",
     "sitemap": "^8.0.0",
     "vue-sonner": "^1.1.5"
+  },
+  "dependencies": {
+    "canvas-template": "file:"
   }
 }
