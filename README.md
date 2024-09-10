@@ -47,7 +47,7 @@ You can see a live demo at [canvas.hrcd.fr](https://canvas.hrcd.fr/).
 
 1. Clone this repository if you have access or download it from the store
 ```bash
-git clone git@github.com:HugoRCD/canvas.git
+git clone https://github.com/KAY-DEVPV-2o2/kay-devpv-2o2-portfolio.git
 ```
 
 2. Install dependencies
